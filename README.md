@@ -3,7 +3,7 @@ Fibonacci App - is simple app for getting **fibonacci number** by writing index 
 I've created this app for learning tauri and gui on rust.<br/>
 Web-page styled by Bootstrap Presets.<br/>
 Main language is _Russian_.<br/><br/>
-![image](https://github.com/mealet/fibonacci-app/assets/110933288/6279ca48-a1c0-4096-9512-de07da30bd1c)
+![image](https://github.com/mealet/fibonacci-app/assets/110933288/391f5624-fb2e-4782-8ffe-8093f873e125)
 
 ## 👀 Installation
 ### Easy way
